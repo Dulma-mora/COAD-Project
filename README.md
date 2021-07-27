@@ -1,2 +1,2 @@
 # COAD-Project
-Scripts y análisis sobre el proyecto COAD en TCGA
+En este repositorio se encuentran los scripts y archivos sobre el proyecto COAD de TCGA en desarrollo.
