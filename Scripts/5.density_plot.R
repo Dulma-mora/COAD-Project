@@ -12,7 +12,7 @@ path_mir <- "COAD_mi.tsv"
 
 coad_mi <- as.data.frame(readr::read_tsv(path_mir)) # wow!
 
-coad_mi <- read.table(file = 'COAD_mi.tsv', sep = '\t', header = TRUE)
+# coad_mi <- read.table(file = 'COAD_mi.tsv', sep = '\t', header = TRUE) IGNORAR
 
 
 #### nueva matriz de adyacencia 
