@@ -17,7 +17,7 @@ coad_mi <- as.data.frame(readr::read_tsv(path_mir)) # wow!
 
 #### nueva matriz de adyacencia 
 
-coad_mi <- mi_matrix
+#coad_mi <- mi_matrix
 
 density(coad_mi)
 
